@@ -97,16 +97,6 @@ streamlit run app.py
 - Support for GPT-3.5-turbo, GPT-4, GPT-4-turbo, and GPT-4o
 - Customizable prompts for better analysis
 
-## Project Structure
-
-```
-talk-to-your-data/
-├── app.py                  # Main application file
-├── requirements.txt        # Package dependencies
-├── README.md               # Project documentation
-└── assets/                 # Static assets (if any)
-```
-
 ## Dependencies
 
 ```
@@ -146,6 +136,6 @@ MIT License
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [Peter Mamdouh]
 - Built with Streamlit and OpenAI
 - Visualization using Matplotlib and Seaborn
