@@ -600,4 +600,4 @@ with col2:
 # Footer
 st.markdown("---")
 st.write("Made with ❤️ using Streamlit, Pandas, and OpenAI")
-st.write("© 2025 Data Assistant")
+st.write("© 2025 Peter Mamdouh")
